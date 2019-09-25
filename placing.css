@@ -1,12 +1,10 @@
 *{
 	text-align: center;
 	text-transform: uppercase;
+	line-height: 200px;
+	margin: 20px;
 }
 
-p{
-	padding: 95px 0px;
-
-}
 
 div{
 	margin: auto;
